@@ -4,7 +4,10 @@
  
   
   /* хедер */
-
+header{
+    display: flex;
+    margin: 0;
+}
   /* лого */
   .logo-header {
     display: flex;
@@ -101,7 +104,7 @@
     position: absolute;
     width: 135px;
     height: 16px;
-    left: 1078px;
+    left: 1070px;
     top: 32px;
   }
 
@@ -110,6 +113,6 @@
     position: absolute;
     width: 122px;
     height: 16px;
-    left: 1263px;
+    left: 1260px;
     top: 32px;
   }
