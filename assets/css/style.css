@@ -7,6 +7,7 @@
 header{
     display: flex;
     margin: 0;
+    
 }
   /* лого */
   .logo-header {
@@ -53,6 +54,7 @@ header{
   
   .link:hover{
     color:#2196F3 ;
+    display: inline-block;
   }
 
   .list-item{
