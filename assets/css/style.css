@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+  }
+ 
+  
+  /* хедер */
+
+  /* лого */
+  .logo-header {
+    display: flex;
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+  }
+  
+  .logo{
+    color: #212121;;
+  }
+
+  .menu-list:hover{
+    color:#2196F3;
+    position: absolute;
+    border-radius: 2px;
+  }
+  
+  /* меню */
+ 
+  
+  .link {
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    text-decoration: none;
+  }
+  
+  .contacts-list .link {
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    text-decoration: none;}
+  
+  .link:hover{
+    color:#2196F3 ;
+  }
+
+  .list-item{
+    display: flex;
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+  }
+
+  .contacts-list{
+    display: flex;
+    position: absolute;
+    font-family: roboto;
+  }
+
+  .item-1{
+    display: flex;
+    position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+  }
+
+  .item-2{
+    display: flex;
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+  }
+
+  .item-3{
+    display: flex;
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+  }
+
+  .item-4{
+    display: flex;
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+  }
+
+  .item-5{
+    display: flex;
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+  }
